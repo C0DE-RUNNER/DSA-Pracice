@@ -11,9 +11,9 @@
                 p=i;
         }
     }
-    //If distance is equal to int max 
-    if(min_dist==INT_MAX)
+
+  if(min_dist==INT_MAX)
         return -1;
 
     return min_dist;
-    }
+ }
