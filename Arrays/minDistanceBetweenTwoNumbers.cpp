@@ -1,6 +1,8 @@
- int minDist(int a[], int n, int x, int y) {
-        // code here
-         int p = -1, min_dist = INT_MAX;
+ 
+
+int minDist(int a[], int n, int x, int y) {
+
+ int p = -1, min_dist = INT_MAX;
     
     for(int i=0 ; i<n ; i++)
     {
