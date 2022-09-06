@@ -12,7 +12,9 @@ Example 2:
 Input: c = 3
 Output: false
  
+Constraints:
 
+0 <= c <= 231 - 1
 
 */
 
