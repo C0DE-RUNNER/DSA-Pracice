@@ -7,6 +7,13 @@ Input: c = 5
 Output: true
 Explanation: 1 * 1 + 2 * 2 = 5
 
+Example 2:
+
+Input: c = 3
+Output: false
+ 
+
+
 */
 
 
