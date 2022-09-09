@@ -1,5 +1,3 @@
-
-
 class Solution {
   public:
     int binarysearch(int arr[], int n, int k) {
