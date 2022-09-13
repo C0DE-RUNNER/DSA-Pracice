@@ -1,4 +1,4 @@
- 
+ /* minimum distance between 2 nodes */
 
 int minDist(int a[], int n, int x, int y) {
 
