@@ -22,7 +22,7 @@ Constraints:
 
 class Solution {
 public:
-    bool judgeSquareSum(int c) {
+    bool judgeSquareSum(int c){
         if(c < 0)
             return false;
         
