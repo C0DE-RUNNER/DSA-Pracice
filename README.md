@@ -1,1 +1,1 @@
-# DSA-Pracice
+# DSA Pracice
