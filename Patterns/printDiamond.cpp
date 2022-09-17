@@ -3,11 +3,7 @@ Geek is very fond of patterns. Once, his teacher gave him a star pattern to solv
 
 Help Geek to build a star pattern.
 
- 
-
 Example 1:
-
-
 
 Your Task:
 
