@@ -3,8 +3,6 @@ Geek is very fond of patterns. Once, his teacher gave him a  pattern to solve. H
 
 Help Ram build a pattern.
 
- 
-
 Example 1:
 
 Input: 5
