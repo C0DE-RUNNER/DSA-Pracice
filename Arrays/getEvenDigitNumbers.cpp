@@ -7,7 +7,6 @@ Answer: 42, 5775, 34, 45, 3556
 */
 
 
-
 int digi(int n){
 	int count=0;
 	while(n>0){
