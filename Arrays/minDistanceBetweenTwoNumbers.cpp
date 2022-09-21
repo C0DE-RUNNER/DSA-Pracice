@@ -1,7 +1,6 @@
  /* minimum distance between 2 nodes */
 
 
-
 int minDist(int a[], int n, int x, int y) {
 
  int p = -1, min_dist = INT_MAX;
