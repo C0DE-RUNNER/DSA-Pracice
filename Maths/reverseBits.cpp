@@ -35,3 +35,32 @@ Constraints:
 0 <= X < 232
 
 */
+
+
+
+class Solution {
+  public:
+    long long binaryToDecimal(string n)
+    {
+        string num = n;
+        long long dec_value = 0;
+        long long base = 1;
+        long long len = num.length();
+        for (long long i = len - 1; i >= 0; i--) {
+            if (num[i] == '1')
+                dec_value += base;
+            base = base * 2;
+        }
+     
+        return dec_value;
+    }
+
+    long long reversedBits(long long X) {
+        // code here
+        string s = bitset<32>(X).to_string();
+        reverse(s.begin(), s.end());
+        long long ans = binaryToDecimal(s);
+        return ans;
+        
+    }
+};
