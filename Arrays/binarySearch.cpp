@@ -1,4 +1,4 @@
-class Solution {
+class
 
     int binarysearch(int arr[], int n, int k) {
         // code here
